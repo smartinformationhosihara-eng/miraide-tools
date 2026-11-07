@@ -4,7 +4,7 @@ note の記事で使った小さな道具をまとめた置き場です。どれ
 
 | フォルダ | 中身 | 使い方 | 関連記事 |
 |---|---|---|---|
-| `note-check/` | 記事を出す前の文章チェック (`note_lint.py`、`soft_check.py`) | `python note_lint.py 本文.txt --title "タイトル"` | [AI に記事を書かせている自分が通している検査](https://note.com/humble_hornet125) |
+| `note-check/` | 記事を出す前の文章チェック (`note_lint.py`、`soft_check.py`) | `python note_lint.py 本文.txt --title "タイトル"` | [note のトップ](https://note.com/humble_hornet125) |
 | `dance/` | 透過ダンス動画のフレーム数を BPM から検算する (`dance_calc.py`) | `python dance_calc.py 動画.webm` | [ステージで踊り続ける透過ダンス動画の作り方](https://note.com/humble_hornet125/n/nd9fd9e23d72d) |
 | `video-demos/hyperframes/` | HTML と GSAP で文字が跳ねるタイトル動画 | `npx hyperframes render -o out.mp4` | |
 | `video-demos/remotion/` | React で作るタイトル動画 | `npx remotion render index.jsx Title out.mp4` | |
